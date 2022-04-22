@@ -23,10 +23,10 @@ git config --global user.name "inhoe"
 
 git push origin main
 
-#make branch
+# make branch
 git branch develop
 
-#switch
+# switch
 git switch develop
 
 #From local to Remote repo.
